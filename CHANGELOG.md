@@ -2,8 +2,14 @@
 
 All notable changes to the "boomi-db-to-csv-document-converter" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+### 0.1.2
 
-## [Unreleased]
+- Added *.dat file association to change to CSV in settings.json
 
-- Initial release
+### 0.1.1
+
+- Fixed files leading string detection.
+
+### 0.1.0
+
+- Initial release.

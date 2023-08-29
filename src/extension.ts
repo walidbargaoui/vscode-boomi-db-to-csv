@@ -39,6 +39,7 @@ export function activate(context: vscode.ExtensionContext) {
             });
 
             vscode.window.showInformationMessage('Converted text to CSV');
+            
         }
     });
 

@@ -2,7 +2,7 @@
   "name": "boomi-db-to-csv-document-converter",
   "displayName": "Boomi DB to CSV Document Converter",
   "description": "Convert the default database document format of Boomi to a more readable CSV format.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "publisher": "avaxia-walid",
   "engines": {
       "vscode": "^1.62.0"
